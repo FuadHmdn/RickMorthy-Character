@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">RickMorthy-Character</string>
+    <string name="status">Status</string>
+    <string name="species">Species</string>
+    <string name="gender">Gender</string>
+    <string name="description">Description</string>
+    <string name="about">About</string>
+    <string name="fuadhamidan_contact_gmail_com">fuadhamidan.contact@gmail.com</string>
+    <string name="fuad_hamidan">Fuad Hamidan</string>
+
+    <string-array name="data_name">
+        <item>Morty Smith</item>
+        <item>Rick Sanchez</item>
+        <item>Alien Rick</item>
+        <item>Toby Matthews</item>
+        <item>Memory Rick</item>
+        <item>Butthole Ice Cream Guy</item>
+        <item>Agency Director</item>
+        <item>Long Sleeved Morty</item>
+        <item>Real Fake Doors Salesman</item>
+        <item>Turkey President Curtis</item>
+        <item>Abradolf Lincler</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Morty adalah cucu Rick dan anak dari Jerry dan Beth. Dia berusia 14 tahun dan sering digambarkan sebagai remaja yang canggung, mengalami masalah dengan kepercayaan diri. Sering kali dia terjebak dalam petualangan berbahaya yang diciptakan oleh Rick, yang menyebabkan dia mengalami ketegangan mental. Meski demikian, Morty menunjukkan keberanian dan keinginan untuk melakukan hal yang benar, sering kali bertentangan dengan sikap sinis Rick. Hubungannya dengan keluarga, terutama dengan ibunya, Beth, sangat kompleks, mencerminkan dinamika keluarga yang sering disorot dalam serial. </item>
+        <item>Rick Sanchez adalah protagonis utama dan kakek Morty. Dia adalah ilmuwan jenius, tetapi sifatnya yang egois dan pemarah sering menyebabkan masalah. Dengan pengetahuan yang luas tentang berbagai ilmu pengetahuan, Rick menciptakan teknologi yang luar biasa, meskipun sering kali tanpa memikirkan konsekuensinya. Dia memiliki hubungan yang rumit dengan keluarganya, terutama dengan Morty dan Beth, di mana dia sering kali memperlihatkan cinta dalam bentuk ketidakpedulian. Rick juga bergumul dengan rasa sakit dari masa lalunya, termasuk trauma kehilangan keluarganya dan ketidakmampuannya untuk berhubungan dengan orang lain secara emosional.</item>
+        <item>Alien Rick adalah variasi dari Rick yang berasal dari dimensi lain, menunjukkan bagaimana kepribadiannya bisa berbeda tergantung pada lingkungan dan situasi. Karakter ini biasanya memperlihatkan elemen humor absurd, kadang-kadang membawa pandangan baru tentang moralitas atau etika. Alien Rick sering kali memiliki kekuatan dan karakteristik unik yang membedakannya dari Rick yang kita kenal, menyoroti betapa banyaknya kemungkinan yang ada dalam multiverse.</item>
+        <item>Toby adalah karakter pendukung yang muncul sebagai teman sekelas Morty. Dia menggambarkan pengalaman sosial remaja yang sering terpinggirkan. Meskipun Toby bukan karakter utama, kehadirannya menambah kedalaman pada kehidupan sehari-hari Morty, menggambarkan dinamika remaja dan tantangan sosial yang dihadapi.</item>
+        <item>Memory Rick adalah representasi dari versi Rick yang terjebak dalam ingatan dan kenangan. Karakter ini mengeksplorasi tema tentang bagaimana pengalaman masa lalu memengaruhi identitas seseorang. Memory Rick memperlihatkan sisi emosional Rick, mengungkapkan kerentanan yang jarang ditunjukkan, serta refleksi tentang pilihan hidup dan dampaknya.</item>
+        <item>Karakter ini memiliki penampilan yang sangat konyol dan absurd, menjual es krim dengan desain dan konsep yang tidak biasa. Meskipun terkesan sebagai lelucon, Butthole Ice Cream Guy menjadi simbol dari humor aneh dan gelap dalam serial ini, menyoroti betapa absurdnya beberapa aspek dari dunia yang dibangun oleh Rick dan Morty.</item>
+        <item>Sebagai kepala agensi yang mengatur multiverse, Agency Director sering kali menjadi perwakilan dari birokrasi yang kaku. Karakter ini menghadirkan kontras dengan pendekatan bebas Rick, menciptakan dinamika yang menarik ketika kedua karakter berinteraksi. Agency Director sering kali berfokus pada efisiensi dan mengikuti aturan, berlawanan dengan pandangan Rick yang lebih nihilistik.</item>
+        <item>Karakter ini adalah versi alternatif dari Morty yang mengenakan lengan panjang. Dalam konteks cerita, Long Sleeved Morty mencerminkan variasi dari kepribadian dan pengalaman Morty yang lebih luas, sering kali menjadi alat naratif untuk menjelajahi tema identitas dan perbedaan.</item>
+        <item>Karakter ini adalah contoh satir dari dunia periklanan dan penjualan, menjual produk yang tidak ada. Dia menggambarkan absurditas komersialisasi dan iklan, menyoroti betapa mudahnya masyarakat terpengaruh oleh gimmick yang tampak menarik tetapi sebenarnya tidak memiliki nilai. Real Fake Doors Salesman menambahkan lapisan kritik sosial pada humor dalam serial.</item>
+        <item>Sebagai presiden berbentuk kalkun, karakter ini merupakan simbol dari absurdnya dunia politik yang ditampilkan dalam Rick and Morty. Turkey President Curtis menggambarkan ketidakberdayaan dan kekonyolan dalam kepemimpinan, menciptakan satire tajam terhadap sistem pemerintahan dan pemimpin yang tidak efektif.</item>
+        <item>Karakter ini adalah kombinasi antara Abraham Lincoln dan Adolf Hitler, mewakili dua ekstrem ideologi politik. Abradolf Lincler menjadi contoh humor gelap yang khas, menyoroti pertentangan nilai-nilai moral dalam bentuk yang sangat absurd. Karakter ini membawa refleksi tentang sejarah dan ideologi dalam konteks yang humoris namun provokatif.</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/morty_smith</item>
+        <item>@drawable/rick_sanchez</item>
+        <item>@drawable/alien_rick</item>
+        <item>@drawable/toby_matthews</item>
+        <item>@drawable/memory_rick</item>
+        <item>@drawable/butthole_ice_cream_guy</item>
+        <item>@drawable/agency_director</item>
+        <item>@drawable/long_sleeved_morty</item>
+        <item>@drawable/real_fake_doors_salesman</item>
+        <item>@drawable/turkey_president_curtis</item>
+        <item>@drawable/abradolf_lincler</item>
+    </array>
+
+    <string-array name="data_status">
+        <item>Alive</item>
+        <item>Alive</item>
+        <item>Unknown</item>
+        <item>Alive</item>
+        <item>Dead</item>
+        <item>Alive</item>
+        <item>Dead</item>
+        <item>Unknown</item>
+        <item>Alive</item>
+        <item>Alive</item>
+        <item>Unknown</item>
+    </string-array>
+
+    <string-array name="data_species">
+        <item>Human</item>
+        <item>Human</item>
+        <item>Alien</item>
+        <item>Human</item>
+        <item>Human</item>
+        <item>Alien</item>
+        <item>Human</item>
+        <item>Human</item>
+        <item>Human</item>
+        <item>Animal</item>
+        <item>Human</item>
+    </string-array>
+
+    <string-array name="data_gender">
+        <item>Male</item>
+        <item>Male</item>
+        <item>Male</item>
+        <item>Male</item>
+        <item>Male</item>
+        <item>Male</item>
+        <item>Male</item>
+        <item>Male</item>
+        <item>Male</item>
+        <item>Male</item>
+        <item>Male</item>
+    </string-array>
+</resources>
