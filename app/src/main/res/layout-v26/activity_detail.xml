@@ -9,7 +9,7 @@
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:layout_marginBottom="16dp"
         android:padding="16dp">
 
@@ -149,6 +149,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
                 android:layout_weight="1"
+                android:justificationMode="inter_word"
                 android:textSize="16sp"
                 tools:text="asnmabsdbasdmbasndbmansbdnmbasdbasmdbmasnbdnmabsdnmbasdnmbasdbmansbdmnasdasdasdbansmdbmansbdmnabsdmabsdnmbamsdbmab adnasjnd   asd asd a sd   asdasjndajsndkjasd asdasdasdasdasd  asdasdasdas  asdasdasdkjakjdsnjaksdnkas asda" />
 

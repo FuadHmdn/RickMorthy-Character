@@ -7,6 +7,7 @@
     <string name="about">About</string>
     <string name="fuadhamidan_contact_gmail_com">fuadhamidan.contact@gmail.com</string>
     <string name="fuad_hamidan">Fuad Hamidan</string>
+    <string name="share">Share</string>
 
     <string-array name="data_name">
         <item>Morty Smith</item>
